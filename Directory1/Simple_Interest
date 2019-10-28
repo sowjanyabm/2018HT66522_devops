@@ -4,9 +4,9 @@
 
 # We can change values here for 
 # different inputs 
-P = 1
-R = 1
-T = 1
+P = 2
+R = 4
+T = 6
 
 # Calculates simple interest 
 SI = (P * R * T) / 100
